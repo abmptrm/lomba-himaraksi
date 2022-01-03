@@ -657,6 +657,7 @@ nav ul li a:hover {
   .container-body-dua {
     flex-wrap: wrap;
     flex-direction: column;
+    
   }
 
   .logo i {
