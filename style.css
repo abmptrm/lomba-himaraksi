@@ -524,13 +524,14 @@ button:active {
   align-items: center;
   flex-wrap: wrap;
   gap: 1em;
+  margin-bottom: 50px;
 }
 
 .prestasi .card {
   flex: 1 0 270px;
   background-color: #dddbdb;
   padding: 10px;
-  margin: 0px 10px 80px 10px;
+  margin-bottom: 10px;
   border-radius: 10px;
   box-shadow: 0 5px 10px rgba(0,0,0,0.5);
   align-self: normal;
