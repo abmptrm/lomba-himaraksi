@@ -1016,6 +1016,15 @@ footer {
   .visi-misi .container .box-misi {
     padding: 30px 20px 30px 20px;
   }
+  
+  .prestasi .row {
+    margin-bottom: 50px;
+  }
+
+  .prestasi .card {
+    padding: 10px;
+  }
+
 
   .image-gallery {
     padding: 2em 2em;
